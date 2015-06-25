@@ -27,6 +27,8 @@
         // Then reset the timer.
         timeSinceObstacle = 0.0f;
     }
+    
+    
 }
 
 - (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
